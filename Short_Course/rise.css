@@ -1,0 +1,38 @@
+.pmode {
+    display:none; !important
+}
+
+div.text_cell_render h1 {
+	font-size: 150%;
+	color: rgb(59,159,119);
+	background-color: rgb(255,255,255);
+}
+
+div.text_cell_render h2 {
+	font-size: 120%;
+	color: rgb(32,74,135);
+	background-color: rgb(255,255,255);
+}
+
+div.text_cell_render h3 {
+	font-size: 100%;
+	color: rgb(0,0,0);
+	background-color: rgb(255,255,255);
+}
+
+/* ---------- markdown cells
+ */
+body.rise-enabled div.inner_cell>div.text_cell_render.rendered_html {
+    font-size: 60%;
+}
+
+/* ---------- code blocks inside markdown
+   i.e. within ``` lines, or 4-space indented
+ */
+div.inner_cell>div.text_cell_render.rendered_html>pre {
+    margin: 0px;
+}
+
+div.inner_cell>div.text_cell_render.rendered_html>pre>code {
+    font-size: 70%;
+}
