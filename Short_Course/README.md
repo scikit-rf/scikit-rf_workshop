@@ -1,11 +1,7 @@
 # scikit-rf Short Course Outline
 
-## 1. Requirements and Preparation
-### 1.1. Python environment setup (Anaconda)
-### 1.2. Installation of scikit-rf
-
-## 2. scikit-rf basics
-### 2.1. Network: the base class
+## 1. scikit-rf basics
+### Network: the base class
 - Scattering parameters basics
 - Creating Network from Touchstone file
 - Basic Network properties : .s, .z0, other network parameters (z, y, t, a), discussion shape of arrays (s, etc)
@@ -13,23 +9,23 @@
 - Frequency object discussion. 
 - Creating Network from s or other network parameters
 
-### 2.2. Plotting
+### Plotting
 - Short overview of plotting capabilities
 
-### 2.3. Arithmetic Operations
+### Arithmetic Operations
 - +,-,*,/ : Examples with short and delay
 - Comparisons
 
-### 2.4. Cascading and de-embedding
+### Cascading and de-embedding
 - Cascading and inverting: Examples with short and line (cf dedicated tutorial). Mention for 2N-ports
 - Simple De-embedding
 
-### 2.5. Interpolation, resampling, stitching
+### Interpolation, resampling, stitching
 - Resample
 - Interpolating
 - stitch
 
-### 2.6. Time Domain
+## 2. Time Domain
 - Some theory
 - Examples of applications
 
@@ -55,10 +51,6 @@
 - Open-short
 - Through-only
 
-## 6. VectorFitting
-- Introduction
-- Examples
-
-## 7. Examples
+## 6. Examples
 - Impedance Matching
 - Transmission Line Losses
