@@ -1,6 +1,8 @@
 # scikit-rf Short Course Outline
 
-## 1. scikit-rf basics
+## 0. [Introduction to scikit-rf](0-Introduction_to_scikit-rf.ipynb)
+
+## 1. [scikit-rf basics](1-Networks.ipynb)
 ### Network: the base class
 - Scattering parameters basics
 - Creating Network from Touchstone file
@@ -29,11 +31,11 @@
 - Some theory
 - Examples of applications
 
-## 3. Connecting Networks
+## 3. [Connecting Networks](3-Connecting_Networks.ipynb)
 - connect()
 - Circuit
 
-## 4. NetworkSet
+## 4. [NetworkSet](4-NetworkSet.ipynb)
 - Creating, reading from files
 - Uncertainty
 - Named-parameters
