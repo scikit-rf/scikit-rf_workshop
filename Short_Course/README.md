@@ -54,5 +54,6 @@
 - Through-only
 
 ## 6. Examples
-- Impedance Matching
-- Transmission Line Losses
+- [Impedance Matching](Example_Impedance-Matching.ipynb)
+- [Transmission Line: Losses on a Loaded Lossy Line](Example_Transmission_Line_Losses.ipynb)
+- [Transmission Line: How does the SWR vary along a line?](Example_SWR_along_a_line.ipynb)
