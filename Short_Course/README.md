@@ -27,7 +27,7 @@
 - Interpolating
 - stitch
 
-## 2. Time Domain
+## 2. [Time Domain](2-Time_Domain.ipynb)
 - Some theory
 - Examples of applications
 
@@ -41,8 +41,8 @@
 - Named-parameters
 - Interpolating
 
-## 5. [Calibration and De-embedding](5-Calibration_and_Deembedding.ipynb)
-### 5.1. Calibration
+## 5. Calibration and De-embedding
+### 5.1. [Calibration](5-Calibration.ipynb)
 - Introduction on calibration methods
 - One port
 - Two port
@@ -57,3 +57,5 @@
 - [Impedance Matching](Example_Impedance-Matching.ipynb)
 - [Transmission Line: Losses on a Loaded Lossy Line](Example_Transmission_Line_Losses.ipynb)
 - [Transmission Line: How does the SWR vary along a line?](Example_SWR_along_a_line.ipynb)
+- [Interpolating between Networks with NetworkSet](Example_Interpolating_NetworkSet.ipynb)
+- [Tapered Transmission Lines](Example_tapered_transmission_lines.ipynb)
