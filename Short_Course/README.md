@@ -41,17 +41,12 @@
 - Named-parameters
 - Interpolating
 
-## 5. Calibration and De-embedding
-### 5.1. [Calibration](5-Calibration.ipynb)
+## 5. [Calibration](5-Calibration.ipynb)
 - Introduction on calibration methods
 - One port
 - Two port
-- Example : one port tiered calibration?
+- Example 
 
-### 5.2. De-embedding
-- Introduction (cf doc Jason Ellison)
-- Open-short
-- Through-only
 
 ## 6. Examples
 - [Impedance Matching](Example_Impedance-Matching.ipynb)
