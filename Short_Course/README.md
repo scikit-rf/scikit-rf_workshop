@@ -45,10 +45,16 @@
 - Introduction on calibration methods
 - One port
 - Two port
-- Example 
+- Example
 
+## 6. [Media](6-Media.ipynb)
+- Coaxial Example
+- Example: Single Stub Optimization
+- Rectangular Waveguide
+- Example: Rectangular Waveguide Measurement Simulation
+- Freespace
 
-## 6. Examples
+## Examples
 - [Impedance Matching](Example_Impedance-Matching.ipynb)
 - [Transmission Line: Losses on a Loaded Lossy Line](Example_Transmission_Line_Losses.ipynb)
 - [Transmission Line: How does the SWR vary along a line?](Example_SWR_along_a_line.ipynb)
